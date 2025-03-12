@@ -9,3 +9,7 @@ function add(a,b,c){
 function revert(a){
     console.log(a)
 }
+
+function revert2(b){
+    console.log(b)
+}
