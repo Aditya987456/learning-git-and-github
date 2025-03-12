@@ -12,5 +12,6 @@ function checkage(age){
     return age>=19
 }
 
-
-
+function fn() {
+    console.log("my name id : "+ fn)
+}
