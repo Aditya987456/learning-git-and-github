@@ -5,3 +5,7 @@ const c=7
 function add(a,b,c){
     return a+b+c
 }
+
+function revert(a){
+    console.log(a)
+}
