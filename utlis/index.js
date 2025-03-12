@@ -9,3 +9,5 @@ function add(a,b,c){
 function revert(a){
     console.log(a)
 }
+
+const msd=7
