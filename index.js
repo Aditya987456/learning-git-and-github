@@ -36,3 +36,7 @@ function feat2(){
 function rebase1(){
     console.log('rebase1')
 }
+
+function rebase2(){
+    console.log('rebase2')
+}
