@@ -40,3 +40,7 @@ function rebase1(){
 function rebase2(){
     console.log('rebase2')
 }
+
+function rebase3(){
+    console.log('rebase3')
+}
